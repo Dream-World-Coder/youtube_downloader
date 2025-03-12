@@ -2,3 +2,9 @@
 .ropeproject
 *.log
 *_downloads
+.DS_Store
+.vscode
+.idea
+*.spec
+build
+dist
