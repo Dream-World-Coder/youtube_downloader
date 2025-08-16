@@ -8,3 +8,5 @@
 *.spec
 build
 dist
+downloads
+*.un~
